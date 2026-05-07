@@ -1,0 +1,11 @@
+1. Created VPC
+2. Created public subnet
+3. Created private subnet
+4. Created route table
+5. Attached Internet Gateway
+6. Associated subnet with route table
+7. Enabled auto public IP
+8. Launched public EC2
+9. Launched private EC2
+10. Connected through Git Bash SSH
+11. Connected private EC2 using Bastion Host
